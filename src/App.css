@@ -1,0 +1,51 @@
+  .header {
+    background-color: lightcyan;
+  }
+
+  .getStartedBtn{
+    background-color: rgb(255, 0, 153);
+    color: white;
+    border-radius: 10px;
+    border: none;
+  }
+
+  .getStartedBtn:hover{
+    transform: scale(0.97);
+  }
+
+  .tryBtn{
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px 5px gainsboro;
+  }
+
+  .textWidth{
+    width: 68%;
+  }
+
+  .card img{
+    height: 250px;
+  }
+
+  .card{
+    box-shadow: 1px 1px 5px 5px rgb(233, 232, 232);
+  }
+
+  .footer{
+    background-color: rgb(15, 31, 49);
+    color: white;
+  }
+
+  .footer img{
+    height: 25px;
+  }
+
+  .links a{
+    text-decoration: none;
+    color: white;
+  }
+
+  .links a:hover{
+    color: rgb(255, 0, 153);
+  }
